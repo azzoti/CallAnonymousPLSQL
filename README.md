@@ -1,4 +1,4 @@
 CallAnonymousPLSQL
 ==================
 
-Examples of Java call anonymous PLSQL blocks
+Examples of Java calling anonymous PLSQL blocks
