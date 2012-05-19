@@ -6,7 +6,7 @@ import java.sql.Types;
 
 public class CallPLSQLBlockWithOneInputStringAndOneOutputStringParameter {
 
-    // Warning: this is a simple example program : In a long running application,
+    // Warning: this is a simple example program : In a long running application, xxx
     // exception handlers MUST clean up connections statements and result sets.
     public static void main(String[] args) throws SQLException {
 
